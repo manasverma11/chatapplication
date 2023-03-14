@@ -1,2 +1,2 @@
 # chatapplication
-Project is under devel
+Project is under development. Client Module is successfully developed and uploaded.
